@@ -1,4 +1,4 @@
-initial commmi
+initial commmit
 mohta
 name: Shubh
 hello2
